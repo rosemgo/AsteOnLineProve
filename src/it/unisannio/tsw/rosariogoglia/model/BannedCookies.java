@@ -18,4 +18,5 @@ public interface BannedCookies {
 	
 	public void setCookie(String cookie);
 	
+	public void setCookie(String cookie, int x);
 }
