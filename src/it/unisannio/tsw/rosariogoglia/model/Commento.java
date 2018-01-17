@@ -36,6 +36,8 @@ public interface Commento {
 	public String toString();
 
 	public boolean equals(Object commento);
+	
+	cazz
 
 	
 	
