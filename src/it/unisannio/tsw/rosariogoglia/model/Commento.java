@@ -37,7 +37,6 @@ public interface Commento {
 
 	public boolean equals(Object commento);
 	
-	cazz
 
 	
 	
