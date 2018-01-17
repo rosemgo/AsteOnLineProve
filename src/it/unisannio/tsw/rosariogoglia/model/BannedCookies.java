@@ -18,6 +18,5 @@ public interface BannedCookies {
 	
 	public void setCookie(String cookie);
 	
-	si nu cazo
 	
 }
