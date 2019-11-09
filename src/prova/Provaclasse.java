@@ -6,5 +6,8 @@ package prova;
  */
 public class Provaclasse {
 	
-
+public modifica;
+	
+	
+	
 }
