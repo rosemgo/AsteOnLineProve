@@ -6,9 +6,9 @@ package prova;
  */
 public class Provaclasse {
 	
-//public modifica;
-
-
+public modifica; //HO TOLTO IL COMMENTO, NEL MASTER MODIFICO QUESTA LINEA
+ 
+//AGGIUNGO UNA LINEA
 
 	
 	
