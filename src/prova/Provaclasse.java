@@ -6,5 +6,9 @@ package prova;
  */
 public class Provaclasse {
 	
+	//PROVA MODIFICA
+	
+	private int ros;
+	
 
 }
