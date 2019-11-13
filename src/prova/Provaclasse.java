@@ -14,9 +14,9 @@ public class Provaclasse {
 
 	//HO CANCELLATO LE CAZZATE DI MARCO
 	
-	//WE
+	//rosario pollo
 	
-	//CHE FAI
+	//CHE FAI si nu pepe
 	
 	//WE
 	
