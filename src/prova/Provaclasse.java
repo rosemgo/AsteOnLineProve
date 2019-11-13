@@ -10,7 +10,7 @@ public class Provaclasse {
 	 
 	//AGGIUNGO UNA LINEA
 
-	//AGGIUNGO QUESTA LINEA, DOPO IL PUSH FATTO DAL MASTER
+	//ho cancellato la riga
 		
 
 	
