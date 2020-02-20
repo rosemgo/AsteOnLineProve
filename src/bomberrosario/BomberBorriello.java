@@ -8,8 +8,13 @@ public class BomberBorriello {
 		int rosario=3;
 		
 		int somma = rosario + marco;
-		System.out.println("La somma �: " + somma);
+		System.out.println("La somma è: " + somma);
 
+		E' PIù BELLO BORRIELLO
+		
+		
+		
+		
 	}
 
 }
